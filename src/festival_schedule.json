@@ -1,0 +1,2746 @@
+[
+    {
+        "dj_name": "Ninajirachi",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Khira",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:20 PM"
+    },
+    {
+        "dj_name": "Brina Knauss",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Heidi Lawden",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "NightStalker",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "07:30 PM"
+    },
+    {
+        "dj_name": "Water Spirit",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Alchimyst",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "ZOF",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Freddy Lane",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "07:15 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Aaron K",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "RORY",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "07:45 PM"
+    },
+    {
+        "dj_name": "Zen Freeman",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Also",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Lavish Life",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Arman.",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Ownboss",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Sicaria",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "08:20 PM",
+        "end_time": "09:45 PM"
+    },
+    {
+        "dj_name": "Cristoph",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "08:00 PM",
+        "end_time": "09:15 PM"
+    },
+    {
+        "dj_name": "Chelna Manuhutu",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "08:30 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "VUIIIGUR",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "07:30 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Yusuf",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Paul Oakenfold",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Majestic",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Discrete",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Kittrix B2B Kendoll",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "The Living Proof",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "07:45 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Marlie",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "08:30 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Pike",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "08:30 PM",
+        "end_time": "09:45 PM"
+    },
+    {
+        "dj_name": "Zevy",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "NOYZNTHEHOOD",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Maddix",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Hamdi",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "09:45 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Cassian",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "09:15 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Lilly Palmer",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "10:00 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Tape B",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "D-Sturb",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Infra",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Riordan",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Fallon",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "Myles O'Neal",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "09:00 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Adam Pearce",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "08:30 PM",
+        "end_time": "09:15 PM"
+    },
+    {
+        "dj_name": "Sally C B2B Marisa",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "10:00 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "VLCN",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "09:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "MC4D",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "Lucky Lou",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "MK",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "10:06 PM",
+        "end_time": "11:15 PM"
+    },
+    {
+        "dj_name": "Dabin",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "11:05 PM",
+        "end_time": "12:10 AM"
+    },
+    {
+        "dj_name": "Vintage Culture",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "10:30 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Nicole Moudaber",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "11:30 PM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "LAYZ",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Keltek",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Giuseppe Ottaviani",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Max Styler",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "S\u00fabelo Nep",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "James Kennedy",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Everen Maxwell",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "09:15 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Jyoty",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "11:30 PM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "? Special Guest",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "11:00 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Dee Jay Silver",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "blklght",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Subtronics",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "11:18 PM",
+        "end_time": "12:20 AM"
+    },
+    {
+        "dj_name": "Slander",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "12:20 AM",
+        "end_time": "01:50 AM"
+    },
+    {
+        "dj_name": "Peggy Gou",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Adam Beyer",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "01:00 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Jessica Audiffred",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Sound Rush",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Andrew Rayel",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Odd Mob X Omnom",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "TOBEHONEST",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Riordon (UKG Set)",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Synymata",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Denis Sulta",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "01:00 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Sanzu",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "12:30 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "Taylor Kade",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Doses",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Armin Van Buuren",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "12:31 AM",
+        "end_time": "01:40 AM"
+    },
+    {
+        "dj_name": "LSDREAM",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "01:50 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Eric Prydz",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "01:30 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Carl Cox",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "02:30 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "NGHTMRE",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Warfare",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Markus Schulz",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "J.Worra",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Andruss",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "NORSE",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "12:30 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Monica Santucci",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "HAAi",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "02:30 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "VKTM",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "01:45 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Lucky Lou",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "01:30 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Matt Suave",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "01:30 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Illenium",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "01:47 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "DEVAULT",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:10 AM"
+    },
+    {
+        "dj_name": "John Summit",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Carl Cox B2B Nicole Moudaber",
+        "stage": "Neon Garden",
+        "day": "Friday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Zomboy",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Hivemind",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Blastoyz",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Matroda B2B San Pacho",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "01:00 AM",
+        "end_time": "02:15 AM"
+    },
+    {
+        "dj_name": "Bones",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Matt Faulk",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "STAR SEED",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Justin Jay",
+        "stage": "Bionic Jungle",
+        "day": "Friday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Chibs",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:15 AM"
+    },
+    {
+        "dj_name": "Mesa & Boss",
+        "stage": "YeeDC!",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Tripps",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:15 AM"
+    },
+    {
+        "dj_name": "David Guetta",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:10 AM"
+    },
+    {
+        "dj_name": "FrostTop B2B RemK",
+        "stage": "Cosmic Meadow",
+        "day": "Friday",
+        "start_time": "04:10 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Before Dawn",
+        "stage": "Circuit Grounds",
+        "day": "Friday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Marauda",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Audiofreq",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Infected Mushroom",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Noizu",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "02:15 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Akaio",
+        "stage": "House of Dunkin",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "TAILSPIN",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Kozmoz",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "OG Nixin",
+        "stage": "Meta Phoenix",
+        "day": "Friday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Who's John",
+        "stage": "Blacklight Bar",
+        "day": "Friday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Steve Aoki",
+        "stage": "Kinetic Field",
+        "day": "Friday",
+        "start_time": "04:13 AM",
+        "end_time": "05:15 AM"
+    },
+    {
+        "dj_name": "HOL!",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Hixxy",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Orjan Nielsen & Mark Sixma",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "MISS DRE",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Castor & Pollux",
+        "stage": "Rynobus",
+        "day": "Friday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "CELO",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Adventure Club",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Claws B2B Domina",
+        "stage": "Wasteland",
+        "day": "Friday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Taylor Torrence",
+        "stage": "Quantum Valley",
+        "day": "Friday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Andruss",
+        "stage": "Stereobloom",
+        "day": "Friday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "KEPIK",
+        "stage": "Beatbox ArtCar",
+        "day": "Friday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Mersiv",
+        "stage": "Basspod",
+        "day": "Friday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Payten",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Camden Cox",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Airwolf Paradise",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Malone",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Fallen w/ MC Dino",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "07:30 PM"
+    },
+    {
+        "dj_name": "SOREN",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Miyuki",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Joluca",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Taylor Kade",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "XENAA",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Malcom Zeller",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Bianca Oblivion",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Trouble",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Disco Fries",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "D!CED",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "MitiS",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Odd Mob",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Kyle Walker",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Ben Sterling",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "08:30 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Chef boyarbeatz",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "07:30 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Kreation B2B Darksiderz",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Daxson",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Mele",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "HIghlnd",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Bryan Matthew",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Teko",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Panteros666",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "08:00 PM",
+        "end_time": "09:15 PM"
+    },
+    {
+        "dj_name": "Rebel Scum",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Zevy",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Mark Lizaola",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Benny Benassi",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Boys Noize",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Ben Hemsley",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Marcel Dettmann",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "10:00 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Rated R",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "GRAVEDGR",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Talla 2XLC",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Hannah Laing",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Rommii",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Champ Fresnel",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Ky William",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "Interplanetary Criminal",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "09:15 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Kassel",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "PARTY DADS",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "prv. d",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "Matroda",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "10:06 PM",
+        "end_time": "11:15 PM"
+    },
+    {
+        "dj_name": "Purple Disco Machine",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "11:00 PM",
+        "end_time": "12:15 AM"
+    },
+    {
+        "dj_name": "Four Tet",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "10:00 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Peggy Gou B2B Marcel Dettmann",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "11:00 PM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Bou",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Atomozfears",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Bryan Kearney",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Kevin Saunderson B2B Dj Minx",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "10:00 PM",
+        "end_time": "11:15 PM"
+    },
+    {
+        "dj_name": "Egzod",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Taylor Jaymin",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Mele",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "10:45 PM",
+        "end_time": "12:15 AM"
+    },
+    {
+        "dj_name": "DJ Heartstring",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "10:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Airglo",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Konstantina GIanni",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "10:30 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Soul Purpose",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "DJ Snake",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "11:18 PM",
+        "end_time": "12:25 AM"
+    },
+    {
+        "dj_name": "Deorro",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "12:15 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "Skrillex",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "11:30 PM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Jamie Jones",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "01:00 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Wilkinson",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Adrenalize B2B Wasted Penguinz",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Andrew Bayer",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Eli Brown",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "11:15 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Synymata",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Hannah Laing",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "DJ Minx",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "12:15 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Skin on Skin",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "12:30 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Ghost in Real Life",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "12:00 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Roadhouse",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "12:00 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "fun2bjane B2B mad gavs",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "12:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Tiesto",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "12:31 AM",
+        "end_time": "01:41 AM"
+    },
+    {
+        "dj_name": "Dillon Francis",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "01:45 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Dom Dolla",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "01:00 AM",
+        "end_time": "02:15 AM"
+    },
+    {
+        "dj_name": "Loco Dice",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "02:30 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Wooli",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Sub Zero Project",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Ferry Corsten",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Kevin de Vries",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "12:30 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "Haliene",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "ZUEZEU",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Malone",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "01:30 AM",
+        "end_time": "02:45 AM"
+    },
+    {
+        "dj_name": "X-Coast",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "02:00 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Culture Shock",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Taylor Kade",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "01:30 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Pilot",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "ZEDD",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "01:47 AM",
+        "end_time": "02:57 AM"
+    },
+    {
+        "dj_name": "Troyboi",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Eli Brown B2B HI-LO",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "02:15 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Joseph Capriati",
+        "stage": "Neon Garden",
+        "day": "Saturday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Hedex",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Lil Texas",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Paul Van Dyk",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Will Clarke",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "01:45 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Codeko",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Tim Clark",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Sidney Charles",
+        "stage": "Beatbox ArtCar",
+        "day": "Saturday",
+        "start_time": "02:45 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Boys Noize B2B VTSS",
+        "stage": "Bionic Jungle",
+        "day": "Saturday",
+        "start_time": "03:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Lizzy Jane",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "02:30 AM",
+        "end_time": "03:45 AM"
+    },
+    {
+        "dj_name": "Lavish Life",
+        "stage": "YeeDC!",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "DJ Hanzel",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Alison Wonderland",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:10 AM"
+    },
+    {
+        "dj_name": "WORSHIP",
+        "stage": "Cosmic Meadow",
+        "day": "Saturday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Wade",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Subtronics B2B Level Up",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Devin Wild",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Aly & Fila",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Matt Sassari",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:15 AM"
+    },
+    {
+        "dj_name": "MitiS (Throwback Set)",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "The Crystal Method",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Fallen B2B Fury B2B Nightstalker w/ Dknow",
+        "stage": "Meta Phoenix",
+        "day": "Saturday",
+        "start_time": "03:45 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Cat & Maomi",
+        "stage": "Blacklight Bar",
+        "day": "Saturday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "ACRAZE B2B Kream",
+        "stage": "Kinetic Field",
+        "day": "Saturday",
+        "start_time": "04:13 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "MK (Sunrise Set)",
+        "stage": "Circuit Grounds",
+        "day": "Saturday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Boogie T",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Creeds + Helen Ka",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "John 00 Fleming",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "BEC",
+        "stage": "Stereobloom",
+        "day": "Saturday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Crystal Skies",
+        "stage": "House of Dunkin",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "ARMNHMR",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Caspa",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Dead X B2B Levenkhan",
+        "stage": "Wasteland",
+        "day": "Saturday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Metta & Glyde",
+        "stage": "Quantum Valley",
+        "day": "Saturday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Polar Bears",
+        "stage": "Rynobus",
+        "day": "Saturday",
+        "start_time": "03:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Crankdat",
+        "stage": "Basspod",
+        "day": "Saturday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "ZUEZEU",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Mary Droppinz",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "IVY",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Adam X",
+        "stage": "Neon Garden",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Richter",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "07:30 PM"
+    },
+    {
+        "dj_name": "Omar Santana",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "Naz",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Pocket",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Quality G",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Assembly",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Kiesto B2B Arman.",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Hint of Lavender",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:00 PM"
+    },
+    {
+        "dj_name": "Harristone",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "DJ 30Rack",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "simfonik",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "07:00 PM",
+        "end_time": "08:15 PM"
+    },
+    {
+        "dj_name": "Wuki",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Deeper Purpose",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Koven",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Shlomo",
+        "stage": "Neon Garden",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "JEANIE",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "07:30 PM",
+        "end_time": "08:30 PM"
+    },
+    {
+        "dj_name": "GEO",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "KhoMha",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Calussa",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Wes Pierce",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Marc V",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "LALA",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Fleur Shore",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "08:00 PM",
+        "end_time": "09:00 PM"
+    },
+    {
+        "dj_name": "Blake Webber",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Lucky Lou",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Bowie Jane",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "08:15 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Lost Frequencies",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "HUGEL",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Sub Focus",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Deborah De Luca",
+        "stage": "Neon Garden",
+        "day": "Sunday",
+        "start_time": "11:00 PM",
+        "end_time": "12:45 AM"
+    },
+    {
+        "dj_name": "Zingara",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "08:30 PM",
+        "end_time": "09:30 PM"
+    },
+    {
+        "dj_name": "Mandy",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Luttrell",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Azzecca",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Thomas Garcia",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Discovery Project",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "1080p",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "10:00 PM"
+    },
+    {
+        "dj_name": "Prunk",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "09:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Pocket",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "blake.",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "10:45 PM"
+    },
+    {
+        "dj_name": "Harmson",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Mau P",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "10:06 PM",
+        "end_time": "11:15 PM"
+    },
+    {
+        "dj_name": "Sofi Tukker (DJ set)",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "11:00 PM",
+        "end_time": "12:15 AM"
+    },
+    {
+        "dj_name": "Sara Landry",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Klangkuenstler",
+        "stage": "Neon Garden",
+        "day": "Sunday",
+        "start_time": "12:45 AM",
+        "end_time": "02:15 AM"
+    },
+    {
+        "dj_name": "Emorfik",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "09:30 PM",
+        "end_time": "10:30 PM"
+    },
+    {
+        "dj_name": "Wasted",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Jerome Isma-Ae",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "LF SYSTEM",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Jackie Hollander",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Neon Deluz",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "VARI",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "10:00 PM",
+        "end_time": "11:00 PM"
+    },
+    {
+        "dj_name": "Ranger Trucco",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Mary Droppinz",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "VAVO",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "10:45 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Kallaghan",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "10:30 PM",
+        "end_time": "11:45 PM"
+    },
+    {
+        "dj_name": "Alesso",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "11:18 PM",
+        "end_time": "12:25 AM"
+    },
+    {
+        "dj_name": "Diplo",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "12:15 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "Seven Lions",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "11:02 PM",
+        "end_time": "12:15 AM"
+    },
+    {
+        "dj_name": "Indira Paganotto",
+        "stage": "Neon Garden",
+        "day": "Sunday",
+        "start_time": "02:15 AM",
+        "end_time": "03:45 AM"
+    },
+    {
+        "dj_name": "Ghastly",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "10:30 PM",
+        "end_time": "11:30 PM"
+    },
+    {
+        "dj_name": "Lady Faith",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Marsh",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Shiba San",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Manics",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "? Surprise",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Redline",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "11:00 PM",
+        "end_time": "12:00 AM"
+    },
+    {
+        "dj_name": "Sidney Charles",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "12:30 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Rohaan",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "MC4D",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "12:00 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Neon Black",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "11:45 PM",
+        "end_time": "12:45 AM"
+    },
+    {
+        "dj_name": "Gryffin",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "12:31 AM",
+        "end_time": "01:41 AM"
+    },
+    {
+        "dj_name": "deadmau5",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "01:45 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Martin Garrix",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "12:15 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "Tyrm",
+        "stage": "Neon Garden",
+        "day": "Sunday",
+        "start_time": "03:45 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Dimension",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "11:30 PM",
+        "end_time": "12:30 AM"
+    },
+    {
+        "dj_name": "Devin Wild B2B Keltek",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Yotto",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "HUGEL & Friends",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "12:30 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "TONG",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Kream",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Jon Casey",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "12:00 AM",
+        "end_time": "01:00 AM"
+    },
+    {
+        "dj_name": "Oden & Fatzo",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "02:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Skellytn",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Brandi Cyrus",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "01:30 AM",
+        "end_time": "02:45 AM"
+    },
+    {
+        "dj_name": "A Shade of Black",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "12:34 AM",
+        "end_time": "01:45 AM"
+    },
+    {
+        "dj_name": "Kaskade",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "01:47 AM",
+        "end_time": "02:57 AM"
+    },
+    {
+        "dj_name": "Kasablanca",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "03:10 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Excision",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "01:45 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "ATLiens",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "12:30 AM",
+        "end_time": "01:30 AM"
+    },
+    {
+        "dj_name": "Da Tweekaz",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Pryda",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "HoneyLuv",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "01:45 AM",
+        "end_time": "02:45 AM"
+    },
+    {
+        "dj_name": "Myles O'Neal",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "PLS&TY",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "Riot",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "01:00 AM",
+        "end_time": "02:00 AM"
+    },
+    {
+        "dj_name": "East End Dubs",
+        "stage": "Bionic Jungle",
+        "day": "Sunday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Kassel",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Disko Cowboy",
+        "stage": "YeeDC!",
+        "day": "Sunday",
+        "start_time": "02:45 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Arboles Pintados",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "01:45 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Fisher",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "03:00 AM",
+        "end_time": "04:10 AM"
+    },
+    {
+        "dj_name": "Valentino Khan",
+        "stage": "Cosmic Meadow",
+        "day": "Sunday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Kayzo (Unleashed XL)",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "03:05 AM",
+        "end_time": "04:20 AM"
+    },
+    {
+        "dj_name": "Svdden Death",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "01:30 AM",
+        "end_time": "02:30 AM"
+    },
+    {
+        "dj_name": "Angerfist",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Kevin de Vries",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "02:15 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Sosa",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "02:45 AM",
+        "end_time": "03:45 AM"
+    },
+    {
+        "dj_name": "MONDELLO",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Damon Sharpe",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Staysick",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "02:00 AM",
+        "end_time": "03:00 AM"
+    },
+    {
+        "dj_name": "Fester",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "03:00 AM",
+        "end_time": "04:15 AM"
+    },
+    {
+        "dj_name": "Lisbona Sisters",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "03:00 AM",
+        "end_time": "04:15 AM"
+    },
+    {
+        "dj_name": "John Summit B2B Green Velvet",
+        "stage": "Kinetic Field",
+        "day": "Sunday",
+        "start_time": "04:13 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Timmy Trumpet",
+        "stage": "Circuit Grounds",
+        "day": "Sunday",
+        "start_time": "04:25 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Kai Wachi",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "02:30 AM",
+        "end_time": "03:30 AM"
+    },
+    {
+        "dj_name": "Deadly Guns",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "Mind Against",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "TOBEHONEST",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "03:45 AM",
+        "end_time": "04:45 AM"
+    },
+    {
+        "dj_name": "Kaysin",
+        "stage": "House of Dunkin",
+        "day": "Sunday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Pickles",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "LOUIEJAYXX",
+        "stage": "Beatbox ArtCar",
+        "day": "Sunday",
+        "start_time": "03:00 AM",
+        "end_time": "04:00 AM"
+    },
+    {
+        "dj_name": "Bunny",
+        "stage": "Meta Phoenix",
+        "day": "Sunday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "AFROdisiac",
+        "stage": "Blacklight Bar",
+        "day": "Sunday",
+        "start_time": "04:15 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Virtual Riot",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "03:30 AM",
+        "end_time": "04:30 AM"
+    },
+    {
+        "dj_name": "DEATH CODE",
+        "stage": "Wasteland",
+        "day": "Sunday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Argy",
+        "stage": "Quantum Valley",
+        "day": "Sunday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Abana B2B D. Zeledon",
+        "stage": "Stereobloom",
+        "day": "Sunday",
+        "start_time": "04:45 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Nick Garcia",
+        "stage": "Rynobus",
+        "day": "Sunday",
+        "start_time": "04:00 AM",
+        "end_time": "05:30 AM"
+    },
+    {
+        "dj_name": "Jon Casey",
+        "stage": "Basspod",
+        "day": "Sunday",
+        "start_time": "04:30 AM",
+        "end_time": "05:30 AM"
+    }
+]
